@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xahseichae.kelestemur.com/sitemap.xml
